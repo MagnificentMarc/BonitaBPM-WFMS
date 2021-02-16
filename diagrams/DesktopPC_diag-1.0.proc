@@ -38,7 +38,7 @@
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_GMD4AXB7EeuhE7MRTAb32A" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_GMD4A3B7EeuhE7MRTAb32A" name="" content="" returnTypeFixed="true"/>
         </elements>
-        <elements xmi:type="process:ServiceTask" xmi:id="_OxcZcHB7EeuhE7MRTAb32A" name="desktopversion" outgoing="_PRaS8HB7EeuhE7MRTAb32A" incoming="_Oxh5AHB7EeuhE7MRTAb32A">
+        <elements xmi:type="process:ServiceTask" xmi:id="_OxcZcHB7EeuhE7MRTAb32A" name="notebook" outgoing="_PRaS8HB7EeuhE7MRTAb32A" incoming="_Oxh5AHB7EeuhE7MRTAb32A">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_OxdnkXB7EeuhE7MRTAb32A" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_OxdnkHB7EeuhE7MRTAb32A" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_OxdnknB7EeuhE7MRTAb32A" name="" content="" returnTypeFixed="true"/>
